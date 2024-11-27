@@ -2,14 +2,14 @@ import React from 'react';
 
 export default function PrivacyPolicy() {
   return (
-    <div className="container mx-auto px-4 py-16 ">
+    <div className="container mx-auto px-4 py-16">
       <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center mt-[100px]">Privacy Policy</h2>
       <div className="space-y-8 text-gray-700">
         
         <section>
           <h3 className="text-2xl font-semibold text-gray-900 mb-4">Introduction</h3>
           <p>
-            Uzair Graphic & Printing values your privacy. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our services or visit our website.
+            EzTech PrinterSolutions values your privacy. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our services or visit our website.
           </p>
         </section>
         
@@ -57,7 +57,7 @@ export default function PrivacyPolicy() {
         <section>
           <h3 className="text-2xl font-semibold text-gray-900 mb-4">Changes to Our Privacy Policy</h3>
           <p>
-            Uzair Graphic & Printing may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy on our website. Changes will take effect immediately upon posting.
+            EzTech PrinterSolutions may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy on our website. Changes will take effect immediately upon posting.
           </p>
         </section>
         
@@ -67,9 +67,9 @@ export default function PrivacyPolicy() {
             If you have any questions or concerns about this Privacy Policy, please contact us at:
           </p>
           <p className="mt-4">
-            Email: support@uzairgraphicprinting.com <br />
-            Phone: 1-800-UZAIRPRINT <br />
-            Address: Uzair Graphic & Printing, 1234 Printing Lane, Print City, USA
+            Email: <a href="mailto:support@eztechprintersolutions.com" className="text-blue-600">support@eztechprintersolutions.com</a><br />
+            Phone: 1-800-EZPRINT<br />
+            Address: EzTech PrinterSolutions, 1234 Print Avenue, Print City, USA
           </p>
         </section>
         
